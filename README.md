@@ -1,6 +1,6 @@
 # ENCM511Project
 
-A collection of projects that use Embedded System Interfacing. The PIC24F16KA101 was used as a microcontroller and the MPLAB X IDE was used to program in C, compile the programs, and run them on the microcontroller. Tera Term was used to for UART communications.
+A collection of projects that use Embedded System Interfacing. The PIC24F16KA101 was used as a microcontroller and the MPLAB X IDE was used to program in C, compile the programs, and run them on the microcontroller. Tera Term was used for UART communications.
 
 Project 1: This project tested the simulation tool in MPLAB X IDE. Certain LEDs in the simulation tool were turned on based off of user inputs which were simulated using the stimulus feature.
 
